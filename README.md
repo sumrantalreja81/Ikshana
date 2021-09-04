@@ -17,4 +17,4 @@ Our varied options listed below square measure specifically geared toward occupa
 Ikshana is associate degree robot app enforced in java. We have used varied arthropod genus
 
   1.Google's API for login.\
-  2.Google maps for locating doctors near .\
+  2.Google maps for locating doctors near .
